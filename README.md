@@ -1,1 +1,1 @@
-# Masters-course-ML-projects
+# Masters-course-ML-projects and assignments 
